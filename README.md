@@ -6,15 +6,6 @@ This theme is simply an updated fork from [mjohnson8165/pma8165-theme](https://g
 
 Among other things, this versions completes the original work by fixing several issues and providing a full dark theme for the database relation view.
 
-## Installation
-
-* Go to your themes directory:
-`cd /usr/share/phpmyadmin/themes`
-
-* Clone the repository: `sudo git clone https://git@github.com/madmath03/pmadarktheme.git pmadarktheme`
-
-* Go to your phpMyAdmin page and select the *pmadarktheme* theme
-
 ## Screenshots
 
 And here are a couple of screenshots of what you'll be getting:

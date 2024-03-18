@@ -1,6 +1,4 @@
 # PMA-4.4-Dark
-Dark theme for PHPMyAdmin 4.4
-
 ## A dark minimal theme for phpMyAdmin 4.4.x.x (tested on 4.4.15.10)
 
 ---
